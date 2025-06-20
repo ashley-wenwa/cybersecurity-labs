@@ -49,6 +49,6 @@ Despite being new to Microsoft Entra, I successfully explored its IAM capabiliti
 
 ## 📄 Downloads
 
-- [📥 View PDF Version](LAB-ONE.pdf)
+- [📥 Download PDF Version](LAB-ONE.pdf)
 
 ---
