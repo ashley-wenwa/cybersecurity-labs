@@ -1,4 +1,4 @@
-# Microsoft Entra IAM Lab Assignment – Week 1
+# Microsoft Entra IAM Lab Assignment 
 
 **Student:** Ashley Wenwa  
 **Program:** Microsoft ADC Cybersecurity Skilling Program  
